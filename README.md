@@ -282,8 +282,9 @@ or IoT sensor networks.
 
 ### Global
 
-- [Official Discord](https://discord.gg/mt7NNZ86RS)
+- [New Discord](https://meshcore.gg/)
   Many regional channels exist within this discord server
+- [Old Discord](https://discord.gg/mt7NNZ86RS)
 - [Reddit r/meshcore](https://www.reddit.com/r/meshcore/)
 - [Forum forum.letsmesh.net](https://forum.letsmesh.net/)
   - with some regional sub-forums
