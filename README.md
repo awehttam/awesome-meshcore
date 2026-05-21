@@ -30,6 +30,7 @@ or IoT sensor networks.
 - [The FAQ](https://github.com/meshcore-dev/MeshCore/blob/main/docs/faq.md)
 - [Official Discord](https://discord.gg/drBQmRJwQR)
 - [MeshCore Web Flasher](https://flasher.meshcore.io)
+- [MeshCore Companion Web App](https://app.meshcore.io/)
 - [Reddit r/MeshCore](https://www.reddit.com/r/meshcore/)
 - [Facebook group](https://www.facebook.com/groups/meshcore)
 - [Current state of Meshcore encryption](https://github.com/meshcore-dev/MeshCore/issues/259)
